@@ -1,8 +1,3 @@
----
-layout: default
-title: Personal Branding - Rizky Julfiandi
----
-
 # Halo, Saya Rizky Julfiandi 👋
 
 📍 **Alamat:** Tiban 3, Sekupang Batam  
