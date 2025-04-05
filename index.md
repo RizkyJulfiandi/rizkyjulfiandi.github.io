@@ -3,13 +3,30 @@ layout: default
 title: Personal Branding - Rizky Julfiandi
 ---
 
-# Halo! Saya Rizky Julfiandi 👋
+# Halo, Saya Rizky Julfiandi 👋
 
-Selamat datang di halaman personal branding saya.
+📍 **Alamat:** Tiban 3, Sekupang Batam  
+📧 **Email:** rizkyjulfiandi07@gmail.com  
+🔗 [GitHub](https://github.com/RizkyJulfiandi) | [LinkedIn](https://linkedin.com/in/)
 
-- 📍 Alamat: [isi alamatmu]
-- 📧 Email: [email kamu]
-- 💼 LinkedIn: [link]
-- 💻 GitHub: [link]
+---
 
-> Ini adalah halaman GitHub Pages yang saya buat sebagai tugas personal branding.
+## 📚 Riwayat Pendidikan
+
+- **Politeknik Negeri Batam** - Teknik Informatika (2024 - Sekarang)  
+- **SMA Negeri 1 Batam** - IPA (2021 - 2024)
+
+---
+
+## 🛠️ Proyek
+ 
+- **Aplikasi Pengajuan Dosen Pembimbing Tugas Akhir** – Web app untuk pengajuan dosen pembimbing.  
+
+---
+
+## 💡 Skillset
+
+**Programming Languages:** HTML, CSS, JavaScript, PHP, MySQL  
+**Tools:** VS Code, Git & GitHub  
+**Soft Skills:** Komunikasi, Kerja Tim, Problem Solving
+
